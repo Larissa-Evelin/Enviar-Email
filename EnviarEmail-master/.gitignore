@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EnviarEmail/v15/Server/sqlite3/db.lock
+/.vs/EnviarEmail/v15/Server/sqlite3/storage.ide
+/.vs/EnviarEmail/v15/Server/sqlite3/storage.ide-shm
+/.vs/EnviarEmail/v15/Server/sqlite3/storage.ide-wal
